@@ -1,3 +1,3 @@
-#Landscaping company
+# Landscaping company
 
 FCC curriculum landing page.
